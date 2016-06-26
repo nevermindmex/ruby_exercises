@@ -11,7 +11,7 @@ end
 # first ex
 puts ("Ur name?")
 name = gets()
-puts ("Greetings #{name}")
+puts ("Greetings, #{name}")
 
 #second ex
 puts ("Let me know ur favorite number")
