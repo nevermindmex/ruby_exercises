@@ -35,7 +35,7 @@ def name_validate(x)
 	  break
 	  else
     puts 'Incorrect full name, please type it correctly'
-		x = gets()
+		x = gets
 	  end
   end
 end
